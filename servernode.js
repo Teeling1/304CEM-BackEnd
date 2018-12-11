@@ -24,4 +24,4 @@ routes(app); //register the route
 app.listen(port);
 
 
-console.log('RESTful API server for Examination Website started on: ' + port);
+console.log('RESTful API server for Quiz Website started on: ' + port);
