@@ -36,4 +36,4 @@ routes(app)
 app.listen(port)
 
 // output message to indicate server start
-console.log('RESTful API server for Examination Website started on: ' + port)
+console.log('RESTful API server for Quiz Maker Website started on: ' + port)
